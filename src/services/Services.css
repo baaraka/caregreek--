@@ -35,6 +35,7 @@
   align-items: flex-start;
   flex-wrap: wrap;
   padding-left: 142px;
+  padding-bottom: 60px;
 }
 .containerService {
   width: 303px;
