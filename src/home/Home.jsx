@@ -5,13 +5,13 @@ export default function Home() {
     <div className="home">
       <div className="homeImg">
         <img
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgyHJf5HSeHgJxlDkNidBzEp5_PNY3wBAO1w&usqp=CAU"
+          src="https://burst.shopifycdn.com/photos/holding-bucket-of-cleaning-supplies.jpg?width=1200&format=pjpg&exif=1&iptc=1"
           alt=""
           className="homeImgItem"
         />
       </div>
       <div className="homeTitle">
-        <h1 className="homeTitleItem">About Us</h1>
+        <h1 className="homeTitleItem">Our Services</h1>
       </div>
       <div className="homeList">
         <ul className="homeListItem">
