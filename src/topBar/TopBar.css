@@ -71,5 +71,5 @@
   border: 2px solid rgb(244, 184, 73);
   border-radius: 10px;
   border-top-right-radius: 1px;
-  border-spacing: 5px;
+  padding: 10px;
 }
