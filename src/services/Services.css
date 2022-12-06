@@ -33,11 +33,10 @@
   width: 100%;
   height: auto;
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
   align-items: flex-start;
   flex-wrap: wrap;
-  padding-left: 142px;
-  padding-bottom: 60px;
+  padding-left: 30px;
 }
 .containerService {
   width: 303px;
@@ -87,21 +86,11 @@
   padding-top: 15px;
   line-height: 22px;
 }
-.serviceBtn {
-  font-size: 15px;
-  align-items: center;
-  justify-content: center;
-  border-spacing: 5px;
-  padding: 7px;
-  cursor: pointer;
-  font-family: montserrat, sans-serif;
-  border-radius: 10px;
-  border-top-right-radius: 1px;
-  font-weight: 500;
-  color: rgb(112, 102, 75);
-  background-color: rgb(239, 206, 121);
-  border: 2px solid rgb(239, 206, 121);
+.containerS {
+  position: relative;
+  right: 170px;
 }
+
 /* RESPONSIVE */
 /* small devices (smartphones) */
 @media only screen and (max-width: 767px) {
