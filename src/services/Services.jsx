@@ -220,7 +220,7 @@ export default function Services() {
               </p>
             </div>
           </div>
-          <div className="containerService">
+          <div className="containerService containerS">
             <div className="serviceContainerList">
               <i className="icon fa-solid fa-pump-soap"></i>
             </div>
@@ -234,7 +234,7 @@ export default function Services() {
               </p>
             </div>
           </div>
-          <div className="containerService">
+          <div className="containerService containerS">
             <div className="serviceContainerList">
               <i className="icon fa-solid fa-pump-soap"></i>
             </div>
